@@ -112,7 +112,7 @@ export default function BirthdayPage() {
         
         <div className="mb-16">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 text-pink-600 dark:text-pink-400">
-            Our Memories Together, well we didn't meet and make any memories sadly.
+            Our Memories Together, well we didn't meet and make any memories sadly. so its just your pics.
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
             {[1, 2, 3, 4, 5, 6].map((i) => (
